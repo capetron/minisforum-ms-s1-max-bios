@@ -235,7 +235,7 @@ AfuEfix64.efi SHWSA.bin /p /b /n /k /r /capsule /q
 - [Minisforum MS-S1 Max Product Page](https://www.minisforum.com/products/ms-s1-max)
 - [Minisforum Support Center](https://www.minisforum.com/pages/support-center)
 - [pbatard/UEFI-Shell Releases](https://github.com/pbatard/UEFI-Shell/releases) — Pre-built EFI Shell binaries
-- [Blog: How to Update Your MS-S1 Max BIOS for AI Workloads](https://www.petronellatech.com/blog/minisforum-ms-s1-max-bios-update-linux/) — Extended guide from Petronella Technology Group
+- [Blog: How to Update Your MS-S1 Max BIOS for AI Workloads](https://www.petronellatech.com/blog/technology/minisforum-ms-s1-max-bios-update-linux/) — Extended guide from Petronella Technology Group
 
 ## Contributing
 
