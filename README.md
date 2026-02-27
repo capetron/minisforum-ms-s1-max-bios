@@ -4,6 +4,8 @@ Update the BIOS/UEFI firmware on your **Minisforum MS-S1 Max** mini PC directly 
 
 The MS-S1 Max (AMD Ryzen AI Max+ 395 / Strix Halo) is a popular choice for AI workstations, homelabs, and NixOS/Linux servers, but Minisforum only provides Windows-based BIOS update tools. This guide solves that problem.
 
+> **Disclaimer:** This guide is provided for **informational purposes only**. Flashing BIOS/UEFI firmware carries inherent risk, including but not limited to rendering your device inoperable ("bricking"). By following this guide, you acknowledge that you do so **entirely at your own risk**. Neither the authors, Petronella Technology Group, Inc., nor any contributors shall be held liable for any damage, data loss, hardware failure, or other consequences resulting from the use of this information or the included scripts. Always ensure you have a stable power supply during the flash process and verify that you are using the correct firmware for your specific hardware model. This guide is not affiliated with or endorsed by Minisforum.
+
 ## Why Update the BIOS?
 
 - **Stability fixes** for memory, NVMe, and USB4 V2
