@@ -249,4 +249,4 @@ MIT
 
 ---
 
-*Guide by [Petronella Technology Group](https://www.petronellatech.com) — IT consulting and AI infrastructure for businesses since 2002.*
+*Guide by [Petronella Technology Group](https://petronellatech.com) — IT consulting and AI infrastructure for businesses since 2002.*
